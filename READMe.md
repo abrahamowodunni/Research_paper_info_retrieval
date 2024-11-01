@@ -1,4 +1,4 @@
-# Research Retrieval System 💁
+# Research Retrieval System 
 
 ## Overview
 
